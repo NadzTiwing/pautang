@@ -1,0 +1,60 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "admin",
+      "password": "a",
+      "name": "Bookkeeper"
+    },
+    {
+      "id": 123,
+      "username": "batman",
+      "password": "123",
+      "name": "Bruce Wayne"
+    },
+    {
+      "id": 456,
+      "username": "s",
+      "password": "s",
+      "name": "Peter Parker"
+    },
+    {
+      "id": 789,
+      "username": "ironman",
+      "password": "123",
+      "name": "Tony Stark"
+    }
+  ],
+  "debts": [
+    {
+      "userId": 456,
+      "amount": "1500",
+      "status": "approved",
+      "id": 1
+    },
+    {
+      "userId": 456,
+      "amount": "500",
+      "status": "paid",
+      "id": 2
+    },
+    {
+      "userId": 789,
+      "amount": "100",
+      "status": "approved",
+      "id": 3
+    },
+    {
+      "userId": 789,
+      "amount": "50",
+      "status": "denied",
+      "id": 4
+    },
+    {
+      "userId": 123,
+      "amount": "1200",
+      "status": "pending",
+      "id": 5
+    }
+  ]
+}

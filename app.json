@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "budget-tracker",
-    "slug": "budget-tracker",
+    "name": "pautang",
+    "slug": "pautang",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
